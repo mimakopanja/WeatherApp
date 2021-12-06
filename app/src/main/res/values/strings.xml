@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherMvp</string>
+    <string name="condition">Overcast</string>
+    <string name="feels_like">Feels like: 10°C</string>
+    <string name="humidity">Humidity</string>
+    <string name="spring">Spring</string>
+</resources>
